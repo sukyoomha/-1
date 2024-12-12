@@ -76,7 +76,7 @@ content_data = {
         'images': [
             "https://www.whosaeng.com/imgdata/whosaeng_com/202012/2020123019521698.jpg",
             "https://blog.kakaocdn.net/dn/tavtk/btq97mNuhyW/0CSseiaexjbl78815PtGNK/img.png",
-            "https://m.daewoong.co.kr/attach/202107/b9f7ab7de2ca458498d8a25300b229ca.jpg"
+            "https://barkiri.cdn.ntruss.com/product/p79.webp"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
@@ -91,9 +91,9 @@ content_data = {
     },
     labels[1]: {
         'images': [
-            "https://www.whosaeng.com/imgdata/whosaeng_com/202012/2020123019521698.jpg",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://pimg.mk.co.kr/meet/neds/2021/06/image_readtop_2021_575286_16236787304681117.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgnxsjgcKqc36eAxoHgbOT0csPGpyeQeD0CQ&s",
+            "https://cdn.hitnews.co.kr/news/photo/202205/39424_47499_1333.jpg"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
@@ -102,15 +102,15 @@ content_data = {
         ],
         'texts': [
             "타이레놀 입니다.",
-            "Label 2 관련 두 번째 텍스트 내용입니다.",
-            "Label 2 관련 세 번째 텍스트 내용입니다."
+            "아세트아미노펜 500mg가 함유된 진통제입니다.",
+            "아세트아미노펜이 들어있는 다른 약을 먹는 것을 주의하세요."
         ]
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://mblogthumb-phinf.pstatic.net/MjAyMzA2MjJfNjkg/MDAxNjg3NDA4MTQ4MTg3.F3OlXNky5aTwhWk9C_7fcg3cttx64Nh6NUwGz7u2zfwg.NNQrslZhs_KeAH9PEqREv9wfEI2K9eXUetAD1-UsJyIg.JPEG.jongha3846/1.jpg?type=w800",
+            "https://nedrug.mfds.go.kr/pbp/cmn/itemImageDownload/1MtU6vRYsHt",
+            "https://cdn.hitnews.co.kr/news/photo/202401/51883_68783_1458.png"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
@@ -119,8 +119,8 @@ content_data = {
         ],
         'texts': [
             "탁센입니다.",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "나프록센 250mg가 함유된 진통제입니다.",
+            "나프록센이 들어있는 다른 약을 먹는 것을 주의하세요."
         ]
     }
 }
