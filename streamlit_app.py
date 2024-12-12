@@ -74,7 +74,7 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
+            "https://www.whosaeng.com/imgdata/whosaeng_com/202012/2020123019521698.jpg",
             "https://via.placeholder.com/300?text=Label1_Image2",
             "https://via.placeholder.com/300?text=Label1_Image3"
         ],
@@ -85,13 +85,13 @@ content_data = {
         ],
         'texts': [
             "이지엔 입니다.",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "이부프로펜 200mg가 함유된 진통제입니다.",
+            "이부프로펜이 들어있는 다른 약을 먹는 것을 주의하세요."
         ]
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
+            "https://www.whosaeng.com/imgdata/whosaeng_com/202012/2020123019521698.jpg",
             "https://via.placeholder.com/300?text=Label2_Image2",
             "https://via.placeholder.com/300?text=Label2_Image3"
         ],
