@@ -75,8 +75,8 @@ content_data = {
     labels[0]: {
         'images': [
             "https://www.whosaeng.com/imgdata/whosaeng_com/202012/2020123019521698.jpg",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://blog.kakaocdn.net/dn/tavtk/btq97mNuhyW/0CSseiaexjbl78815PtGNK/img.png",
+            "https://m.daewoong.co.kr/attach/202107/b9f7ab7de2ca458498d8a25300b229ca.jpg"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
